@@ -1,0 +1,2 @@
+Los polinomios de lagrange son más eficientes de ejecutar ya que
+elimina la necesidad de utilizar métodos de recursión.
