@@ -1,0 +1,12 @@
+---
+title: "Punto 5 taller"
+output:
+  html_notebook: default
+  pdf_document: default
+---
+
+```{r, echo=T}
+distribucionNormal<- pnorm(seq(-2,2,by = 0.001),0,1)
+print(round(distribucionNormal,4))
+```
+
